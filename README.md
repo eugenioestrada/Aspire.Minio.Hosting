@@ -1,0 +1,1 @@
+# Aspire.Minio.Hosting
